@@ -28,4 +28,3 @@ http://127.0.0.1:8000/
 ## MCQ Page
 ![mcq snap](https://raw.githubusercontent.com/khushikonge/placement-ready-quiz/main/mcq.jpeg)
 
-Updated by Samarth – practicing Git commits 👍
